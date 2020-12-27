@@ -1,79 +1,103 @@
-### Hi, I'm Yannick Brüning👋
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
----
+### <div align="center">I'm Yannick, a full-stack developer 👨‍💻 programming since 2012🚀</div>  
+  
 
-<div>
-    <a href="https://twitter.com/BruningYannick" target="_blank">
-    	<img src="https://cdn.iconscout.com/icon/free/png-64/twitter-1722376-1466162.png">
-    </a>
-    <a href="https://www.linkedin.com/in/yannick-br%C3%BCning-a807a6193/" target="_blank">
-    	<img src="https://cdn.iconscout.com/icon/free/png-64/linkedin-1722379-1466165.png">
-    </a>
-    <a href="https://github.com/Yannick-Bruening" target="_blank">
-    	<img src="https://cdn.iconscout.com/icon/free/png-64/github-136-458293.png">
-    </a>
+- 🔭 I’m currently working on many web projects for [@Playlegend.net](https://playlegend.net/)  
+  
+
+- 🌱 I'm currently learning Kotlin  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
 </div>
 
-
-
-Hi, I'm Yannick Brüning, a Web Developer 🚀 currently doing a apprenticeship at [@LV digital GmbH](https://www.lvdigital.de/). In my free time I'm working at [@Playlegend.net]([Minecraft Legend (playlegend.net)](https://playlegend.net/)) as a Web Developer. I spend almost all of my free time 🕚 learning new programming languages or improving 📈 my skills in those I already know. Besides programming, I love to Snorkel or to freedive.
-
-
-
-💬 Ask me about anything. I love to answer!
+</td><td valign="top" width="33%">
 
 
 
-#### What do I work with
-
-##### 📐 Frameworks & Libs
-
-<div style="text-align: left">
-    <img src="https://img.shields.io/badge/Vue.js-2/3-4FC08D?style=flat-square&logo=vue.js">
-    <img src="https://img.shields.io/badge/Laravel-8-FF2D20?style=flat-square&logo=Laravel">
-    <img src="https://img.shields.io/badge/webpack-latest-8DD6F9?style=flat-square&logo=webpack">
-    <img src="https://img.shields.io/badge/Babel-latest-F9DC3E?style=flat-square&logo=babel">
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/backbonejs-original-wordmark.svg" alt="Backbone.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 </div>
 
+</td><td valign="top" width="33%">
 
 
-##### ❤️ Languages 
 
-<div style="text-align: left">
-    <img src="https://img.shields.io/badge/PHP-8-777BB4?style=flat-square&logo=PHP">
-	<img src="https://img.shields.io/badge/HTML5-latest-E34F26?style=flat-square&logo=html5">
-    <img src="https://img.shields.io/badge/CSS3-latest-1572B6?style=flat-square&logo=css3">
-    <img src="https://img.shields.io/badge/SASS-latest-CC6699?style=flat-square&logo=sass">
-    <img src="https://img.shields.io/badge/JavaScript-ES%202020-F7DF1E?style=flat-square&logo=JavaScript">
-    <img src="https://img.shields.io/badge/TypeScript-4-007ACC?style=flat-square&logo=TypeScript">
-    <img src="https://img.shields.io/badge/Java-15-007396?style=flat-square&logo=Java">
-    <img src="https://img.shields.io/badge/Kotlin-1.4-0095D5?style=flat-square&logo=Kotlin">
-    <img src="https://img.shields.io/badge/MySQL-latest-4479A1?style=flat-square&logo=MySQL">
-    <img src="https://img.shields.io/badge/MongoDB-latest-47A248?style=flat-square&logo=mongodb">
+### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />  
 </div>
 
+</td></tr></table>  
+
+<br/>  
 
 
-##### 🔨 Tools
+## Connect with me  
+<div align="center">
+<a href="https://github.com/Yannick-Bruening" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/BruningYannick" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/yannick-br%C3%BCning-a807a6193" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-<div style="text-align: left">
-    <img src="https://img.shields.io/badge/Webstorm--000000?style=flat-square&logo=Webstorm">
-    <img src="https://img.shields.io/badge/PHPstorm--000000?style=flat-square&logo=Webstorm">
-    <img src="https://img.shields.io/badge/IntelliJ--000000?style=flat-square&logo=intellij%20idea">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code--007ACC?style=flat-square&logo=visual%20studio%20code">
-</div>
-
-
-
-
-
-<div style="text-align: left">
-    <img src="https://github-readme-stats.vercel.app/api?username=yannick-bruening&show_icons=true&theme=vision-friendly-dark" alt="ToxicPointer's GitHub Stats">
-</div>
-
-<div>
-    <small><small>Social Media Icons by <a href="https://iconscout.com/contributors/trickydesign/icons">@Trickydesign</a></small></small>
-</div>
+<br/>  
 
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yannick-Bruening&show_icons=true&count_private=true&hide_border=true&theme=vision-friendly-dark" align="center" /></div>  
 
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=yannick-bruening&style=flat-square" align="center" />
+</div>  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

@@ -4,10 +4,7 @@
   
 
 ### <div align="center">I'm Yannick, a full-stack developer 👨‍💻 programming since 2012🚀</div>  
-  
 
-- 🔭 I’m currently working on many web projects for [@Playlegend.net](https://playlegend.net/)  
-  
 
 - 🌱 I'm currently learning Kotlin  
   
